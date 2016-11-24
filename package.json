@@ -1,0 +1,22 @@
+{
+  "name": "neuralnet",
+  "version": "1.0.0",
+  "description": "Realization neural network on javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vkopytich/neuralnet.git"
+  },
+  "author": "Vitaly Kopytich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkopytich/neuralnet/issues"
+  },
+  "homepage": "https://github.com/vkopytich/neuralnet#readme",
+  "dependencies": {
+    "mnist": "^1.0.5"
+  }
+}
